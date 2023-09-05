@@ -1,5 +1,4 @@
 BaseURL = "https://clauseandeffect.github.io/"
-# baseURL = "/"
 Title = "Clause And Effect"
 
 contentdir = "content"
