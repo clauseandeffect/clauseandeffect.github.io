@@ -1,5 +1,5 @@
-# BaseURL = "https://clauseandeffect.github.io/"
-baseURL = "/"
+BaseURL = "https://clauseandeffect.github.io/"
+# baseURL = "/"
 Title = "Clause And Effect"
 
 contentdir = "content"
@@ -62,7 +62,7 @@ disableFastRender = true        # Hugo 0.30
   # post = "/:year/:month/:title/"
   notes = "/notes/:filename/"
 
-[Taxonomies]
+[Taxonomy]
   category = "categories"
   tag = "tags"
   posts = "posts"
